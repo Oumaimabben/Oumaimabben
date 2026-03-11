@@ -72,5 +72,5 @@ Passionate about building scalable web applications and modern digital solutions
 
 ## 🌐 Links
 
-LinkedIn: [https://linkedin.com/in/yourlink ](https://www.linkedin.com/in/oumaima-ben-othman-2b48a1211/) 
+LinkedIn: https://www.linkedin.com/in/oumaima-ben-othman-2b48a1211/
 Portfolio: https://oumaima-portfolio-eight.vercel.app
