@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋 I'm Oumaima Ben Othman
 
-<!--
-**Oumaimabben/Oumaimabben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at TEK-UP University  
+💻 Full Stack Developer | MERN Stack | DevOps Enthusiast  
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications and modern digital solutions using JavaScript technologies and microservices architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies
+
+**Languages**
+- JavaScript
+- TypeScript
+- Java
+- PHP
+- HTML / CSS
+
+**Frameworks & Libraries**
+- React.js
+- Node.js
+- Express.js
+- Angular
+- Tailwind CSS
+- Redux
+
+**Databases**
+- MongoDB
+- MySQL
+- Firebase
+- PostgreSQL
+  
+
+**DevOps & Tools**
+- Docker
+- Git / GitHub
+- GitLab CI/CD
+- Apache Kafka
+- Postman
+- Jest (Testing)
+
+---
+
+## 📚 Featured Projects
+
+**🔐 Identity and Access Management (IAM) System**  
+- Microservices architecture with Node.js (TypeScript)  
+- Authentication, Authorization, RBAC & ABAC  
+- Apache Kafka for event-driven communication  
+- MFA implementation  
+- Docker deployment  
+- React + Tailwind frontend  
+
+**📊 TaskFlowHR – HR Management Platform**  
+- Dashboard, performance evaluation and employee management  
+- MERN Stack with TypeORM and MySQL  
+- Real-time notifications using WebSockets  
+
+**🎓 E-Learning Platform**  
+- Interactive courses, quizzes, certificates and badges  
+- AI-powered recommendations  
+- React + Redux frontend  
+- Node.js + MongoDB backend  
+
+**📅 Coworking-Book – Meeting Room Booking App**  
+- Angular frontend  
+- JWT authentication  
+- REST APIs with Node.js & Express  
+- Email notification system  
+
+---
+
+## 🌐 Links
+
+LinkedIn: [https://linkedin.com/in/yourlink ](https://www.linkedin.com/in/oumaima-ben-othman-2b48a1211/) 
+Portfolio: https://oumaima-portfolio-eight.vercel.app
