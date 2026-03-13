@@ -1,7 +1,7 @@
 # Hi 👋 I'm Oumaima Ben Othman
 
 🎓 Software Engineering Student at TEK-UP University  
-💻 Full Stack Developer | MERN Stack | DevOps Enthusiast  
+💻 Full Stack Developer |  DevOps Enthusiast  
 
 Passionate about building scalable web applications and modern digital solutions using JavaScript technologies and microservices architecture.
 
